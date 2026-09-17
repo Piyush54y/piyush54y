@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Piyush Kumar Developer Banner" width="100%">
+</p>
+
 # Hi, I'm Piyush Kumar 👋
 
 ### MCA Graduate | Software Developer | Web Developer | Python & Java
